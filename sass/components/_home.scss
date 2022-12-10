@@ -1,0 +1,26 @@
+.home{
+  background-image: url(/images/home-img.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+
+.home__title{
+  width: 500px;
+  color: #fff;
+  font-size: 46px;
+}
+
+.home__tittle-position{
+  padding-top: 120px;
+  padding-left: 120px;
+}
+
+.home__description{
+ color: #fff;
+ margin-top: 50px;
+ margin-left: 120px
+}
+
+@import'_header.scss';
+
